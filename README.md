@@ -70,7 +70,28 @@ pip install pandas
 python etl_movies.ipynb
 ```
 
-👨‍💻 Autor
-<p> <img align="left" width="80" src="https://avatars.githubusercontent.com/u/174966059?v=4" style="border-radius: 10px; margin-right: 15px;" /> Felipe de Lima Passarelli<br> <a href="https://github.com/Felipe-de-Lima-Passarelli">GitHub</a> | <a href="https://www.linkedin.com/in/felipe-de-lima-passarelli-6099362a0/">LinkedIn</a> | <a href="https://www.instagram.com/felipe_de_lima_passarelli/">Instagram</a> </p> <br clear="left"/>
+## 👨‍💻 Aluno
 
-⌨️ com 💛 por Felipe de Lima Passarelli
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/174966059?v=4"
+    />
+    <p>&nbsp&nbsp&nbspFelipe de Lima Passarelli<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/Felipe-de-Lima-Passarelli">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/felipe-de-lima-passarelli-6099362a0/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/felipe_de_lima_passarelli/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
+---
+
+⌨️ com 💜 por [Felipe de Lima Passarelli](https://github.com/Felipe-de-Lima-Passarelli)
