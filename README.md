@@ -28,3 +28,12 @@ O projeto conta com um **notebook Jupyter** documentando todo o processo de form
 <p align="center">
 <img src="./assets/estrutura.png" width="400"/>
 </p>
+
+
+## 🔍 Fluxo ETL
+
+### 1️⃣ Extract — Leitura da Base Bruta
+```python
+import pandas as pd
+
+df_raw = pd.read_csv("filmes.csv")
